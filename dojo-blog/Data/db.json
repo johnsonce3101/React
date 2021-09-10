@@ -1,0 +1,16 @@
+{
+    "blogs": [
+    {
+        "title": "My First Blog",
+        "body": "Hey, this is an introduction to me",
+        "author": "CJ",
+        "id": 1
+    },
+    {
+        "title": "New Wave",
+        "body": "Something new, so grab your board and ride along",
+        "author": "Christopher",
+        "id": 2
+    }
+    ]
+}
